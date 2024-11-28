@@ -1,0 +1,102 @@
+Prerequisites: Curisosity, Mindset, Database, Programming, Math
+
+1. Tools
+	- IDE & Visual Studio (Cursor)
+	- VC & Github
+	- API & Postman
+	- Cloud & AWS/GCP/Azure
+	- arXiv & LaTeX
+	- UX/UI & Figma
+	- Tech Docs & Canva
+	- Personal Portfolio: Website, Google Scholar
+	- AI Tools & Prompt Engineering
+	- Agile & Scrum
+	- Research 
+
+2. System Architecture
+	- Overview
+	- Component
+	- Microservices & Monolith
+	- Requirements
+	- Software Development Cycle
+
+3. Data Infrastructure
+	- Data Collection
+	- Data Lake & Airflow
+	- Data Warehouse & ETL
+	- Schema Design
+
+4. EDA
+	- Descriptive Stats
+	- Visualization
+	- Hypothesis
+
+5. Data Preparation
+	- Data VC & Evaluation
+	- Data Filtering
+	- Data Augmentation
+	- Data Synthesize
+	- Data Annotation
+	- Data Sampling/Selection
+	- Feature Extraction/Engineering
+
+6. Model
+	- Approach
+	- Training Infrastructure
+	- Building Baseline
+	- Model Selection
+	- Hyperparameters
+	- Performance Tracking
+
+7. Benchmark
+	- Default Benchmark
+	- Customized Benchmark
+	- Error Analysis
+	- Explainable Insights
+	- Resource Inference Benchmark
+
+8. Deployment
+	- Containization & Docker
+	- Scale & K8s
+	- DevOps, Roles & Resources
+	- A/B Testing
+	- Cross-platform Dev
+
+9. Optimization
+	- CDN
+	- Caching
+	- Quantization
+	- Pruning
+	- RAG
+
+10. Risk Management
+	- Fault-Tolerance
+	- Anomalies Detection
+	- Distribution Shift
+
+11. Final Project: Build a Tech Startup
+	- Build a autonomuous ML project that can everything above
+	- Should choose a broad topic: ML, CV, NLP, Robotics
+	- Then choose a specific application.
+
+12. Advanced Topics
+	- Distributed Training
+	- Federated Learning
+	- Meta Learning 
+	- Reinforcement Learning
+	- Vision-Language Model
+	- Multi-modal/Graph RAG
+	- Multi Agent System
+	- Diffusion/GAN
+	- Flow Matching
+	- Neural Radiance Field
+	- Quantum Computing
+	- Human-Computer Interaction
+	- Machine Conflict
+	- Bio Computation
+	- Computing Hardware
+	- 3D Printing
+	- Tech Startup & Resource
+
+13. Talks
+	- Weekly Guest Speaker
