@@ -1,0 +1,43 @@
+# Jekyll configuration for FTU-CS website
+title: "Basic Tools for Software Engineers - FTDS"
+description: "Essential tools and technologies for software engineering and machine learning"
+author: "FTU FTDS"
+email: "contact@ftu.edu"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+theme: minima
+
+# Exclude files from processing
+exclude:
+  - README.md
+  - roadmap.txt
+  - .gitignore
+  - .github/
+
+# Include files
+include:
+  - tools.html
+  - styles.css
+  - scripts.js
+  - logo.jpg
+
+# Collections
+collections:
+  tools:
+    output: true
+    permalink: /:name/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
