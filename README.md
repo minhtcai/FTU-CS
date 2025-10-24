@@ -11,9 +11,9 @@ This educational project covers the fundamental tools and methodologies needed f
 ### Month 1 Assignments
 - **(1)** Create GitHub account and create API key
 - **(2)** Install Visual Studio for team project  
-- **(3)** Create Overleaf account and update report in LaTeX
-- **(4)** Push your project to GitHub
-- **(5)** Learn how to create a personal portfolio: [Jon Barron's Portfolio](https://github.com/jonbarron/jonbarron.github.io)
+- **(3)** Push your project to GitHub to update project
+- **(4)** Create Overleaf account and create report in LaTeX
+- **(5)** Create your first personal website hosted on GitHub: [Jon Barron's Portfolio](https://github.com/jonbarron/jonbarron.github.io)
 
 ### Core Learning Modules
 
